@@ -9,7 +9,7 @@ This is a repository collecting codes from the course taught by Angela Yu on Ude
 3. Bootstrap 4 (~12/19)
 4. JavaScript (~12/27)
 5. DOM (Document Object Model) (~12/28)
-6. JQuery
+6. JQuery (~12/28)
 7. Node.js
 ...
 
