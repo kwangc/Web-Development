@@ -10,7 +10,8 @@ This is a repository collecting codes from the course taught by Angela Yu on Ude
 4. JavaScript (~12/27)
 5. DOM (Document Object Model) (~12/28)
 6. JQuery (~12/28)
-7. Node.js
+7. Node.js (~1/3/19)]
+8. API
 ...
 
 ## Contributors
