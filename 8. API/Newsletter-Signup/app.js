@@ -3,7 +3,7 @@
 //Constant part
 const express = require("express");
 const bodyParser = require("body-parser");
-const request = require('request');
+const request = require("request");
 
 const app = express();
 
@@ -35,15 +35,11 @@ app.post("/", function(req, res) {
   };
 
   var jsonData = JSON.stringify(data);
-
-  var myUserId = config.userId;
-  var myApiKey = config.apiKey;
-
   var options = {
-    url: "https://us7.api.mailchimp.com/3.0/lists/" + myUserId,
+    url: "https://us7.api.mailchimp.com/3.0/lists/"+process.env.listId,
     method: "post",
     headers: {
-      "authorization": "tony1 "+ myApiKey
+      "authorization": "tony1 "+process.env.apiKey
     },
     body: jsonData
   };
@@ -66,6 +62,6 @@ app.post("/failure", function(req, res) {
 });
 
 //Port
-app.listen(3000, function() {
+app.listen(process.env.PORT || 3000, function() {
   console.log("Server is running on port 3000");
 });
