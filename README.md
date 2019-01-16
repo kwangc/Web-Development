@@ -12,7 +12,7 @@ This is a repository collecting codes from the course taught by Angela Yu on Ude
 6. JQuery (~12/28)
 7. Node.js (~1/3/19)
 8. API (~1/4/19)
-9. EJS
+9. EJS (~1/14/19)
 ...
 
 ## Contributors
