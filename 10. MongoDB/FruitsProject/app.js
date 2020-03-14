@@ -39,7 +39,7 @@ const insertDocuments = function(db, callback) {
     review: "Great fruit"
     },
     {
-    name: "ORange",
+    name: "Orange",
     score: 6,
     review: "Kinda sour"
     },
