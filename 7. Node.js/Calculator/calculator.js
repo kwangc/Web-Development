@@ -27,8 +27,8 @@ app.get("/bmicalculator", function(req, res) {
 
 app.post("/bmicalculator", function(req, res) {
 
-  var weight = Number(req.body.weight);
-  var height = Number(req.body.height);
+  var weight = parseFloat(req.body.weight);
+  var height = parseFloat(req.body.height);
   var result = Math.floor(weight / (height * height));
 
 
@@ -36,5 +36,5 @@ app.post("/bmicalculator", function(req, res) {
 });
 
 app.listen(3000, function() {
-  console.log("Server startd on port 3000");
+  console.log("Server started on port 3000");
 });

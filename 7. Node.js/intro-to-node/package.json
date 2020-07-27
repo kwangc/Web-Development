@@ -10,6 +10,6 @@
   "license": "ISC",
   "dependencies": {
     "superheroes": "^2.0.0",
-    "supervillains": "^2.1.0"
+    "supervillains": "^2.2.0"
   }
 }
