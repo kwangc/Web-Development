@@ -13,8 +13,8 @@ I resumed this course on July 26, 2020
 5. DOM (Document Object Model) (~12/28/18)
 6. JQuery (~12/28/18)
 7. Node.js (7/26/20~7/27/20)
-8. API (7/28/20~)
-9. EJS
+8. API (7/28/20)
+9. EJS (7/28/20~)
 
 ## Contributors
 
