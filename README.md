@@ -14,7 +14,9 @@ I resumed this course on July 26, 2020
 6. JQuery (~12/28/18)
 7. Node.js (7/26/20~7/27/20)
 8. API (7/28/20)
-9. EJS (7/28/20~)
+9. EJS (7/28/20~7/30/20)
+10. MongoDB (7/31/20~8/1/20)
+11. 
 
 ## Contributors
 
