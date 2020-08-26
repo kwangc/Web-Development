@@ -19,6 +19,7 @@ I resumed this course on July 26, 2020
 11. Putting Everything Together (8/1/20)
 12. RESTful API (8/2/20)
 13. Authentication (8/7/20~8/15/20)
+14. React.js (8/16/20~8/26/20)
 
 
 ## Contributors
